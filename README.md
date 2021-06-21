@@ -1,4 +1,4 @@
-# GlobelX
+# GlobalX
 GlobalX code assessment sort name problem
 
 ## Files Outline
